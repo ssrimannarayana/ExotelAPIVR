@@ -43,7 +43,7 @@ public class CallrecordingApiController {
 	@GetMapping("/testApi")
 	public String test() {
 		//sendMail();
-		return "hi";
+		return "hi welcome";
 	}
 
 	@GetMapping("/ApIvrCampaign")
