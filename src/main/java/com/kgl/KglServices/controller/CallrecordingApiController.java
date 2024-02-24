@@ -42,7 +42,7 @@ public class CallrecordingApiController {
 
 	@GetMapping("/testApi")
 	public String test() {
-		//sendMail();
+		sendMail();
 		return "hi welcome";
 	}
 
