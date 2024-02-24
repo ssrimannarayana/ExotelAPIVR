@@ -102,7 +102,7 @@ public class CallrecordingApiController {
 			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(to));
 
 			// Set Subject: header field
-			message.setSubject("APIVR CAMPAINGS ENDED");
+			message.setSubject("EXOTEL APIVR CAMPAINGS ENDED ");
 
 			// Now set the actual message
 			message.setText("Hi, Bargavi APIVR Call Campaigns Completed. Plz Tigger Callback API");
