@@ -13,7 +13,7 @@
 	<artifactId>Exotel</artifactId>
 	<version>1</version>
 	<packaging>war</packaging>
-	<name>ExotelCampaigns</name>
+	<name>ExotelAPIVR</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
